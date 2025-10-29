@@ -1,2 +1,2 @@
-# medseafishe
-Interactive database offering a comprehensive, up-to-date catalogue of fish species observed in Mediterranean seagrass habitats.
+# MedSeaFish Explorer: Dive into Mediterranean Seagrass-Fish Data
+MedSeaFishE (Mediterranean Seagrass Fish Data Explorer) is an interactive database offering a comprehensive, up-to-date catalogue of fish species observed in Mediterranean seagrass habitats. Drawing on decades of research, it lets users explore which species have been reported in association with different seagrass types, life stages, sampling methods, seasons, and more. Through a systematic review and a newly built Mediterranean-wide dataset, MedSeaFishE offers the first comprehensive picture of fish species associated with native and invasive seagrass meadows, supporting the protection of biodiversity and the sustainable future of Mediterranean marine ecosystems.
